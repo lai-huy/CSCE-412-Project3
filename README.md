@@ -51,3 +51,42 @@ This project is worth 100 points.
 Documentation 30%  
 Successful deployment of appropriate web page as described above 50%  
 Demonstration 20%
+
+# Project 3 Phase 2
+Secure website setup CI/CD and code repositories
+
+## Overview
+At the core of modern software development is continuous integration (CI) and continuous delivery(CD), helping businesses to ship new, working features earlier and more often.  
+This project will expand the secure website from phase 1 with a code repository. Then, by simply
+pushing your code to GitHub, your website will automatically be updated.
+
+## Project Objectives:
+
+You will be able to:
+- Show the benefits of CI/CD and the use of code repositories.
+- Deploy a secure website on the cloud which can beupdated through GitHub.
+
+## Instructions:
+1. This is an individual project, you must turn in your own work.
+2. Collaboration for ideas is acceptable, duplication of work is not.
+3. Use the account information given with this project.
+4. Document the process to update this website.
+5. Demo the update process in class.
+
+## Deliverables:
+All deliverables must be at least a minimum viable solution to the problem assigned.  
+No attempt at grading will be made for non substantial submissions.  
+Create a document that starts with your secure website.  
+Document the steps necessary to create the repository and connect it through an AWS CodePipeline.  
+Then document the way you would update the website.
+1. Provide the steps taken from beginning to end to create a dynamically updateable AWS website using GitHub.
+2. Provide the link to your website.
+3. Demonstration pushing a change.
+   
+## Grading:
+This phase is worth 100 points.
+
+Documentation 10%  
+Use of Git 20%  
+Successful deployment of appropriate web page as described above 50%  
+Demonstration 20%  
